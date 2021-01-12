@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PresupuestoSemanal/static/css/main.ee5c4cdd.chunk.css",
+    "main.js": "/PresupuestoSemanal/static/js/main.b4cd4c0e.chunk.js",
+    "main.js.map": "/PresupuestoSemanal/static/js/main.b4cd4c0e.chunk.js.map",
+    "runtime-main.js": "/PresupuestoSemanal/static/js/runtime-main.9659fa47.js",
+    "runtime-main.js.map": "/PresupuestoSemanal/static/js/runtime-main.9659fa47.js.map",
+    "static/js/2.3b158047.chunk.js": "/PresupuestoSemanal/static/js/2.3b158047.chunk.js",
+    "static/js/2.3b158047.chunk.js.map": "/PresupuestoSemanal/static/js/2.3b158047.chunk.js.map",
+    "static/js/3.2dfb9c62.chunk.js": "/PresupuestoSemanal/static/js/3.2dfb9c62.chunk.js",
+    "static/js/3.2dfb9c62.chunk.js.map": "/PresupuestoSemanal/static/js/3.2dfb9c62.chunk.js.map",
+    "index.html": "/PresupuestoSemanal/index.html",
+    "static/css/main.ee5c4cdd.chunk.css.map": "/PresupuestoSemanal/static/css/main.ee5c4cdd.chunk.css.map",
+    "static/js/2.3b158047.chunk.js.LICENSE.txt": "/PresupuestoSemanal/static/js/2.3b158047.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9659fa47.js",
+    "static/js/2.3b158047.chunk.js",
+    "static/css/main.ee5c4cdd.chunk.css",
+    "static/js/main.b4cd4c0e.chunk.js"
+  ]
+}
